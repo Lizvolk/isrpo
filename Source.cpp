@@ -2,7 +2,8 @@
 
 int main() {
     // Объявление переменной для хранения числа
-    float number;
+    double n;
+
     setlocale(LC_ALL, "rus");
     // Запрос ввода числа
     std::cout << "Введите целое число: ";
